@@ -1,4 +1,4 @@
-## 听说你也想用PicGo
+## 听说你也想用PicGo吧？
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt="">
